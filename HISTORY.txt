@@ -1,6 +1,11 @@
 Version history
 ===============
 
+0.3
+---
+
+* more robust script
+
 0.2.1
 -----
 
